@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components';
 import ImgSlider from './ImgSlider';
+import Viewers from './Viewers';
 export default function Home() {
     return (
         <Container>
@@ -30,7 +31,7 @@ const Container=styled.main`
 `
 
 
-const Viewers=styled.div`
-`
+// const Viewers=styled.div`
+// `
 const Movies = styled.div`
 `
