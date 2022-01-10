@@ -8,6 +8,7 @@ const Container = styled.div`
   padding: 30px 0 26px;
 `;
 const Wrap = styled.div`
+  margin-top:25px;
   border: 3px solid rgba(249, 249, 249, 0.1);
   border-radius: 10px;
   cursor: pointer;
